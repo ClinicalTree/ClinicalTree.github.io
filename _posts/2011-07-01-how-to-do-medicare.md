@@ -1,0 +1,24 @@
+---
+title: How to Do Medicare
+author: [Otha Linton MSJ]
+date: 2011-07-01 00:00:00 +0700 +07
+categories: [{Academic Radiology, Volume 18, Issue 7 SOURCE CL_S_AcademicRadiologyVolume18Issue7 1}]
+tags: [Journals,General Radiology]
+---
+In some of these earlier Chronicles, I wrote about how the American College of Radiology (ACR) was successful in getting radiology defined as a medical service, and not just a hospital responsibility for the Medicare program, which was enacted in 1965. I noted that when the Medicare program began operation, it was managed in various states by Blue Cross, Blue Shield, and a growing number of private health insurance companies. At the beginning, the companies were told to apply the same formats, the same prices, the same staff members, and to accept whatever relationships doctors had with hospitals in their pre-Medicare relationships.
+
+The Medicare law had specified that there would be a distinction between hospital technical charges and for the fees for any physicians who were employed and salaried by hospitals. Hospitals could continue to submit the bills for their services and those of their doctors. But the requirement was that the bills separate the technical costs from the doctor fees. And the law did not stipulate that all of the money priced and collected for doctor fees had to be paid to doctors.
+
+In its effort to meet the requirement granted by the Congress for radiology, the ACR urged its member practices to do their own fee billing, both for Medicare beneficiaries and for all other patients. Those radiology groups who had private offices knew how to obtain patient information, how to send bills, and what to do to collect them. The ACR encouraged its members to hire a business manager and one or two clerks to help with the billing. Radiologists discovered a new group of friends in the names of professional billing services which had done the collecting for surgeons, internists, pediatricians, and other specialists who had not been tied financially to hospitals.
+
+Some of the changes were very traumatic. Many of the radiology groups on hospital contracts had no basis for collecting information about patients’ health care insurance. Some departments did not record the volume of x-ray procedures. And some of them sent bills to patients or to their health insurance companies but made no effort to follow-up when the bills were ignored. The contracting hospital made monthly payments to radiology groups but seldom included any data as to volumes, mixes of services, and/or the actual collection of bills. So the radiology groups had to get an agreement for the hospital to provide patient billing data. Or, in some instances, the radiology group assigned one of its employees to register patients and to obtain the details for billing.
+
+In most instances, when a radiology group informed a Medicare carrier, it might take several months before the carrier would start paying the radiology group. And too often, the carriers would deny claims because the patient allegedly was not a subscriber or because new radiologic technology, such as ultrasound or computed tomography (CT) scanning, was not approved by the insurance company for any of its customers. Another piece of this historic yarn will be describing how we persuaded Medicare to pay for ultrasound, CT scanning, and other new technology.
+
+In the first few years of Medicare, some hospitals contended that the money they paid radiologists included stipends for the management of the x-ray department by the radiologists, their participation in the politics of the hospital, their involvement in teaching residents, postdoctors, medical students, and x-ray technologists, and their acceptance of services for those patients who had no coverage by Medicare, Medicaid, or any other compensation program. That led the ACR to argue that essentially all members of a hospital medical staff had responsibilities for helping manage their sections and manage the hospitals without any compensation. So, as we contended, radiology fees covered only diagnostic and therapeutic procedures and radiologists would not accept compensation for civic responsibilities. That argument prompted many hospitals to choose a technologist or other employee as the radiology department manager. It meant that the chief of radiology no longer had the individual choice about new equipment, about hiring hospital employees, about setting prices or even about assigning parking spaces for every member of a department.
+
+[Get Radiology Tree app to read full this article<](https://clinicalpub.com/app)
+
+[Get Radiology Tree app to read full this article<](https://clinicalpub.com/app)
+
+[Get Radiology Tree app to read full this article<](https://clinicalpub.com/app)
