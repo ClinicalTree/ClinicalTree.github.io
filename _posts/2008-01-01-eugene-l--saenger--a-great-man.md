@@ -1,0 +1,12 @@
+---
+title: Eugene L. Saenger, a great man
+author: [CL_AT_OthaLintonMSJ]
+date: 2008-01-01 00:00:00 +0700 +07
+categories: [Academic Radiology, Volume 15, Issue 1]
+tags: [Journals,General Radiology]
+---
+Radiology lost one of its great men and many of us lost a good friend with the death of Eugene Saenger of Cincinnati at age 90 on September 30. His contributions, mostly to isotopic medicine, earned him a wall full of medals and awards, including an RSNA gold medal and the Hevesy Award from the Society of Nuclear Medicine. He was a prolific investigator and writer. He was a member and director of the National Council on Radiation Protection and Measurements and served as an advisor on radiation effects and safety for numerous government and scientific bodies.
+
+For all of his accomplishments, he spent much of his career with a shadow looming over him. In 1960, he started a project at the Cincinnati General Hospital to treat metastatic cancer patients with whole body radiation in the hope of palliation. The study involved only 90 patients in a decade. It was one of several studies of a similar approach that were funded by federal agencies. Because Gene Saenger was newly out of the army, he obtained funding from the Defense Department. The 1970s was a time when U.S. forces were in Vietnam and many Americans were opposed to the war and to anything related to the Armed Forces. There were congressional inquiries and a wave of news stories about the Cincinnati study. At the request of then Senator Mike Gravel of Alaska, the American College of Radiology investigated Dr. Saenger’s study and replied that it was conducted with full ethical and scientific bases. Two decades later, another flurry of concerns and accusations about federal programs exposing innocent people to radiation arose. Writers dug out clips of the Saenger work, and this time a Cincinnati lawyer filed a class action suit against the investigators, the hospital, the medical school, the state of Ohio, and the sponsoring federal agencies. The case was finally settled with a $5.4 million payment.
+
+Throughout all of this, Gene Saenger pursued his career as a teacher, researcher, scientist, and physician without letting the accusations against him break his spirit or his ambitions to contribute to his profession. I shall miss him.
