@@ -1,0 +1,26 @@
+---
+title: Letter to the Editor
+author: [CL_AT_SamuelGArmatoPhD,CL_AT_KarenDrukkerPhD,CL_AT_FengLiMDPhD,CL_AT_LubomirHadjiiskiPhD,CL_AT_GeorgiaDTourassiPhD,CL_AT_RogerMEngelmannMS,CL_AT_MaryellenLGigerPhD,CL_AT_GeorgeRedmondMSMBA,CL_AT_KeyvanFarahaniPhD,CL_AT_JustinSKirbyBS,CL_AT_NicholasAPetrickPhD]
+date: 2017-07-01 00:00:00 +0700 +07
+categories: [Academic Radiology, Volume 24, Issue 7]
+tags: [Journals,General Radiology]
+---
+We are writing with regard to the _Academic Radiology_ article entitled, “Computer-aided Diagnosis for Lung Cancer: Usefulness of Nodule Heterogeneity” by Drs. Nishio and Nagashima . The authors report on a computerized method to classify as benign or malignant lung nodules present in computed tomography (CT) scans. The reported study used the 73 lung nodules from the 60 CT scans that comprised the test set of the LUNGx Challenge to both train and test their method. At the time the study was conducted, the “true” diagnosis of these 73 nodules had not been publicly released. As stated in the abstract of the article , “The images were provided by the LUNGx Challenge, and the ground truth of the lung nodules was unavailable; a surrogate ground truth was, therefore, constructed by radiological evaluation.” Specifically, two radiologists (the authors) “evaluated the images radiologically and rated their suspicion of malignancy on a 10-point scale”; a mean radiologist score of 5.5 separated nodules assigned “truth” labels of benign and malignant for the purposes of training and testing. The published study compares the performance of the authors' method with the performance of three other computerized nodule classification approaches, all based on this “surrogate ground truth,” and concludes by reporting an area under the curve (AUC) value “based on the actual ground truth” of 0.81, a value provided to the authors by the LUNGx Challenge organizers.
+
+The LUNGx Challenge (sponsored by the SPIE (the international society for optics and photonics), the American Association of Physicists in Medicine, and the National Cancer Institute) reported the range of AUC values as 0.50–0.68 based on the performance of 11 methods from 10 different groups ; the method of Drs. Nishio and Nagashima was not among them. Although the authors had submitted the results of their method to the LUNGx Challenge organizers and received a performance AUC of 0.81, the authors and the LUNGx Challenge organizers soon realized that the manner in which the LUNGx Challenge test cases had been used by the authors violated the protocol of the LUNGx Challenge and favorably biased the performance of their system. This realization is explicitly stated in the authors' _Academic Radiology_ article :
+
+> Our AUC results based on the actual ground truth \[from the LUNGx Challenge\] cannot be compared to the results of the other participants in the LUNGx Challenge, because (1) we have generated a surrogate truth on the test dataset, which was defeating the purpose of the LUNGx challenge, and (2) we used the LUNGx test dataset with the generated surrogate truth to train our system. The other participants used LUNGx test dataset for independent testing of their systems. Their systems were trained on different independent training sets.
+
+Thus, the 0.81 AUC value reported on the “actual ground truth” is completely invalid. Although the authors provide the above caveat at one point in the article, we believe that it still may be interpreted by readers (and the public) that this method performed better than those of participants in the LUNGx Challenge because it exceeds the 0.68 AUC of the actual winner. We would like to strongly reinforce the point that the LUNGx Challenge scores are not comparable to the performance results presented in this article because of the difference in how the data were used.
+
+This discussion raises a larger issue that we feel needs to be addressed during the peer-review process across journals. Public resources for the medical imaging research community (such as the Lung Image Database Consortium Database, images from screening programs such as the National Lung Screening Trial, and images made available through challenges) greatly contribute to the advancement of the field. Analyses of results based on these resources by members of the community in a manner (1) inconsistent with the intentions of the resource or (2) beyond the scope of the resource, however, can be misleading. We strongly recommend that _Academic Radiology_ and other journals that report imaging research seek input from the organizers of any public resource whenever that resource is used by authors who were not themselves involved in its creation.
+
+## References
+
+- 1\. Nishio M., Nagashima C.: Computer-aided diagnosis for lung cancer: usefulness of nodule heterogeneity. Acad Radiol 2017; 24: pp. 328-336.
+
+
+- 2\. Armato S.G., Hadjiiski L., Tourassi G.D., et. al.: The LUNGx Challenge for computerized lung nodule classification: reflections and lessons learned. J Med Imaging 2015; 2: 020103
+
+
+- 3\. Armato S.G., Drukker K., Li F., et. al.: The LUNGx Challenge for computerized lung nodule classification. J Med Imaging 2016; 3: 044506
