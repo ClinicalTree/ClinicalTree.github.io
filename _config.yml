@@ -118,6 +118,7 @@ pwa:
 
 paginate: 10
 
+incremental: true
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
