@@ -190,6 +190,11 @@ exclude:
   - node_modules
   - package*.json
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
